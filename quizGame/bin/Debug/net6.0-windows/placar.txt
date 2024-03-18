@@ -1,0 +1,13 @@
+Pontos: 0
+O jogador Guilherme Pontos: 10
+O jogador João fez 10 pontos.
+O jogador Elisabete fez 10 pontos na data 07/11/2023 11:36:11.
+O jogador Guilherme Barreto Santos fez 10 pontos na data 08/11/2023 08:15:52.
+08/11/2023 09:44:41 || Pontos: 10 || Guilherme Barreto Santos
+08/11/2023 09:47:02 || Pontos: 10 || JOÃO
+08/11/2023 09:48:12 || Pontos: 10 || Elisabete
+
+09/11/2023 08:45:17 || Pontos: 10 || Guilherme
+
+09/11/2023 08:48:57 || Pontos: 5 || Eduardo
+
